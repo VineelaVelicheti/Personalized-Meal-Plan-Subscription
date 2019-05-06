@@ -39,7 +39,7 @@ Install visual studio code
  
  ******************************  Order of file execution ******************************
  
-1.	Unzip the file CMPE226_TEAM2_SOURCES.zip
+1. Unzip the cloned folder.
 2.	You will get the folder structure as shown in the above source tree
 3.	Open SQL directory and run the files in the following order using SQL workbench:
     a.	Table_scripts.sql
